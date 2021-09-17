@@ -17,6 +17,7 @@ set(PROJECT_SOURCES
         main.cpp
         d3d11squircle.cpp
         d3d11squircle.h
+        ./lib/berizr.h
         qml.qrc
         )
 
